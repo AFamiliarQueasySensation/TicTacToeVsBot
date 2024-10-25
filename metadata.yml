@@ -1,0 +1,12 @@
+---
+:id: 5961445
+:submitters:
+- :name: Grant Andrew Von Hagen
+  :email: gvonhage@uwo.ca
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-07-25 02:32:41.332178000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-07-24 19:32:41.332178000 Z
+:status: processed
+:score: 19.0
